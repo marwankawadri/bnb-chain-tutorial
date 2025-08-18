@@ -9,19 +9,11 @@ A [short one-line description of what the project does] built on **BNB Smart Cha
 - **Frontend**: [React / Vue / Next.js] + [ethers.js / web3.js / wagmi]  
 - **Development**: [Hardhat / Foundry / Truffle], OpenZeppelin libraries  
 
-## Integrations
-
-- **DEX Protocols**: [e.g. PancakeSwap, Uniswap]  
-- **Oracles**: [e.g. Chainlink, Pyth]  
-- **Bridges**: [e.g. LayerZero, Wormhole]  
-- **Governance**: [e.g. Compound-style, Snapshot]  
-
 ## Supported Networks
 
 - **BNB Smart Chain Mainnet** (Chain ID: 56)  
 - **BNB Smart Chain Testnet** (Chain ID: 97)  
 - **Ethereum Mainnet** (Chain ID: 1)  
-- **Polygon** (Chain ID: 137)  
 - *(add more if supported)*  
 
 ## Contract Addresses
