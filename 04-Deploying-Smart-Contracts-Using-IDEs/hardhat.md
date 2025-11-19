@@ -189,7 +189,7 @@ $  npx hardhat run --network testnet scripts/deploy.js
 $ npx hardhat run --network testnet scripts/deploy.js
 Deploying contracts with the account: 0x27cf2CEAcdedce834f1673005Ed1C60efA63c081
 Account balance: 100721709119999208161
-Token address: 0xbF39886B4F91F5170934191b0d96Dd277147FBB2
+Token address: 0x7063195e8181c8adab354b5477bfbabcbe301523
 ```
 > Remember your address, transaction_hash and other details provided would differ, Above is just to provide an idea of structure.
 
@@ -274,4 +274,5 @@ https://testnet.bscscan.com/address/0xbF39886B4F91F5170934191b0d96Dd277147FBB2#c
 ```
 
 ## Conclusion
+
 This tutorial guided you through the basics of creating and deploying a simple smart contract using the Hardhat IDE. It also provides step-by-step guide on how to verify your deployed smart contract. This tutorial uses testnet, however, the exact same instructions and sequence will work on the mainnet as well.
