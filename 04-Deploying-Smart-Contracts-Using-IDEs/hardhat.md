@@ -276,4 +276,3 @@ https://testnet.bscscan.com/address/0xbF39886B4F91F5170934191b0d96Dd277147FBB2#c
 ## Conclusion
 
 This tutorial guided you through the basics of creating and deploying a simple smart contract using the Hardhat IDE. It also provides step-by-step guide on how to verify your deployed smart contract. This tutorial uses testnet, however, the exact same instructions and sequence will work on the mainnet as well.
-
